@@ -9,7 +9,11 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Olá Mundo GIT, mais uma vez...");
-
+		for(int i = 0; i<10; i++)
+		{
+			System.out.println("Indice: " + (i+1));
+		}
+		
 	}
 
 }
